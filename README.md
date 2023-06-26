@@ -15,6 +15,7 @@
 ## Experience 🔧
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="assets/icon/Lazarus-icons-lpr-proposal-bpsoftware.png" title="Lazarus" alt="Lazarus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="Embeddedc" alt="Embeddedc" width="40" height="40"/>&nbsp;
 
