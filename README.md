@@ -1,7 +1,7 @@
 <h1>☕ Hi, I'm Parsa Sajedi </h1>
 <p>🎓 Computer Engineering At Shahid Chamran Ahwaz</p>
 
-<h1>Skills <img src="assets/gif/code.gif" width="40" height="40"></h1>
+<h1><img src="assets/gif/code.gif" width="35px"> Skills </h1>
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/assembly.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/cpp.svg" title="C++" alt="C++" width="40" height="40"/>
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -13,4 +13,4 @@
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/hex.svg" title="Hex" alt="Hex" width="40" height="40"/>
 
 
-<h1> <img src="assets/gif/GitHub-logo.gif" width="35" height="35"> GitHub Activity</h1>
+<h1> <img src="assets/gif/GitHub-logo.gif" width="35px"> GitHub Activity</h1>
