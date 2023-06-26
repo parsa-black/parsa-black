@@ -25,4 +25,4 @@
 
 |<img src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&theme=radical" width="400">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=parsa-black&theme=radical" width="412">|
 |---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="280" src=""></p>|
+|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="280" src="assets/gif/Rick&Morty.gif"></p>|
