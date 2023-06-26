@@ -20,4 +20,3 @@
 
 
 ## <img src="assets/gif/GitHub-logo.gif" width="35px"> **GitHub Activity**
-<table></table>
