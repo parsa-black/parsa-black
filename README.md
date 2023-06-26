@@ -3,7 +3,7 @@
 
 <h1>Skills</></h1>
 
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/assembly.svg" title="Assembly" alt="Assembly" width="40" height="40"/>
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/assembly.svg" title="Assembly" alt="Assembly"/>
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/c.svg" title="C" alt="C" width="40" height="40"/> 
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/cpp.svg" title="C++" alt="C++" width="40" height="40"/>  
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"/> 
