@@ -12,7 +12,6 @@
 <img  title="Raspberrypi" alt="Raspberryp" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"/>&nbsp;
 <img  title="C++" alt="C++" width="40" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/cpp.svg"/>&nbsp;
 <img  title="Linux" alt="Linux" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>&nbsp;
-<img  title="Sqlite" alt="Sqlite" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>&nbsp;
 <img  title="HTML" alt="HTML" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>&nbsp;
 <img  title="CSS" alt="CSS" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>&nbsp;
 
@@ -28,15 +27,19 @@
 
 ## <img src="assets/gif/GitHub-logo.gif" width="35px"> **Stats**
 
-<div>
-  <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=transparent">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&layout=compact&hide=html&theme=transparent"/>
-  </div>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsa-black&theme=transparent"/>
-  </div>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr>
+        <td align="center">
+            <img  src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=transparent"/>
+        </td>
+        <td align="center">
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&layout=compact&hide=html,css&theme=transparent"/>
+        </td>
+    </tr>
+</table>
+
+<div width="100%" align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsa-black&theme=transparent"/>
 </div>
+
 <p align="center"><img width="280" src="assets/gif/fsociety.gif"></p>
