@@ -28,7 +28,15 @@
 
 ## <img src="assets/gif/GitHub-logo.gif" width="35px"> **Stats**
 
-|<img src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=github_dark_dimmed" width="400">
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&hide_progress=true&hide=html&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats)|
-|---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&count_private=true&theme=prussian***_count=5)</p>|<p align="center"><img width="280" src="assets/gif/fsociety.gif"></p>|
+<div>
+  <div>
+     <img src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=transparent">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&layout=compact&hide=html&theme=transparent"/>
+  </div>
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsa-black&theme=transparent"/>
+  </div>
+</div>
+<p align="center"><img width="280" src="assets/gif/fsociety.gif"></p>
