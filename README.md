@@ -44,5 +44,3 @@
 <div width="100%" align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsa-black&theme=transparent"/>
 </div>
-
-<p align="center"><img width="280" src="assets/gif/fsociety.gif"></p>
