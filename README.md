@@ -1,3 +1,6 @@
+<p align="center"><img width="100%" src="assets/gif/Rick&Morty.gif"></p>
+
+
 ## >☕ Hi, I'm Parsa Sajedi
 - 🎓  Computer Engineering At Shahid Chamran University
 - 👨‍💻  I’m currently working on Django Project
