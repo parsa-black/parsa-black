@@ -26,8 +26,9 @@
 
 
 
-## <img src="assets/gif/GitHub-logo.gif" width="35px"> **GitHub Activity**
+## <img src="assets/gif/GitHub-logo.gif" width="35px"> **Stats**
 
-|<img src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&theme=radical" width="400">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=parsa-black&theme=radical" width="412">|
+|<img src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=github_dark_dimmed" width="400">
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&hide_progress=true&hide=html&theme=github_dark_dimmed )](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
-|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&count_private=true&theme=radical&langs_count=5)</p>|<p align="center"><img width="280" src="assets/gif/fsociety.gif"></p>|
+|<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&count_private=true&theme=prussian***_count=5)</p>|<p align="center"><img width="280" src="assets/gif/fsociety.gif"></p>|
