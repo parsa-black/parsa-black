@@ -27,7 +27,7 @@
 
 ## <img src="assets/gif/GitHub-logo.gif" width="35px"> **Stats**
 
-<table border="0" cellspacing="0" cellpadding="0" align="center">
+<table align="center">
     <tr>
         <td align="center">
             <img  src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=transparent"/>
