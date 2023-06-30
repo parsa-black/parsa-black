@@ -6,7 +6,7 @@
 - 👨‍💻  I’m currently working on Django Project
 - 📖  I’m currently learning Iot and Django
 - 💬 Ask me about Embedded systems
-- 📫 How to reach me: [Telegram](https://t.me/young_ice), [Twitter](https://twitter.com/MMD_SIAH), [Email](https://www.gmail.com/parsagorgzan1225@gmail.com)
+- 📫 How to reach me: [Telegram](https://t.me/young_ice), [Email](https://www.gmail.com/parsagorgzan1225@gmail.com)
 
 ## Skills</>
 <img  title="Python" alt="Python" width="40" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg"/>&nbsp;
