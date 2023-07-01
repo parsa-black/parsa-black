@@ -36,7 +36,7 @@
             <img  src="https://github-readme-stats.vercel.app/api?username=parsa-black&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=transparent"/>
         </td>
         <td align="center">
-            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&layout=compact&theme=transparent"/>
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-black&layout=compact&theme=transparent&hide=html"/>
         </td>
     </tr>
 </table>
