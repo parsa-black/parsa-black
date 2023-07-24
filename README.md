@@ -2,7 +2,7 @@
 
 
 ## >☕ Hi, I'm Parsa Sajedi
-- 🎓  Computer Engineering At Shahid Chamran University
+- 🎓  Computer Engineering Student At Shahid Chamran University
 - 👨‍💻  I’m currently working on Django Project
 - 📖  I’m currently learning Iot and Django
 - 💬 Ask me about Embedded systems
