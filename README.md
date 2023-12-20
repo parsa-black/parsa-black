@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="assets/gif/rick&morty.jpg"></p>
+<p align="center"><img width="100%" src="assets/gif/ScarFace.jpg"></p>
 
 
 ## >☕ Hi, I'm Parsa Sajedi
