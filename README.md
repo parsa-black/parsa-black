@@ -3,8 +3,8 @@
 
 ## >☕ Hi, I'm Parsa Sajedi
 - 🎓  Computer Engineering Student At Shahid Chamran University
-- 👨‍💻  I’m currently working on Django Project
-- 📖  I’m currently learning Iot and Django
+- 👨‍💻  I’m currently working on IOT and Embedded Systems
+- 📖  I’m currently learning PLC and Industry 4.0
 - 💬 Ask me about Embedded systems
 - 📫 How to reach me: [Telegram](https://t.me/young_ice), [Email](https://www.gmail.com/parsagorgzan1225@gmail.com)
 
